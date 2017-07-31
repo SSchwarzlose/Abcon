@@ -1,0 +1,14 @@
+F:\Development\C#-Projects\Abcon\Abcon\bin\Debug\Abcon.exe.config
+F:\Development\C#-Projects\Abcon\Abcon\bin\Debug\Abcon.exe
+F:\Development\C#-Projects\Abcon\Abcon\bin\Debug\Abcon.pdb
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\Abcon.csprojResolveAssemblyReference.cache
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\MainWindow.g.cs
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\App.g.cs
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\Abcon_MarkupCompile.cache
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\Abcon_MarkupCompile.lref
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\MainWindow.baml
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\Abcon.g.resources
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\Abcon.Properties.Resources.resources
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\Abcon.csproj.GenerateResource.Cache
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\Abcon.exe
+F:\Development\C#-Projects\Abcon\Abcon\obj\Debug\Abcon.pdb
